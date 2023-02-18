@@ -1,16 +1,15 @@
-### Hi there 👋
+### >| About me 
 
-<!--
-**liinuu/liinuu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Hey, im linu - a `software developer` from germany, and like everything that has to do with code.
+I mainly code **discord bots**, **software** and **websites**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Im currently working on **[this project](https://github.com/liinuu/discord-bot)**
+
+
+
+｡ﾟﾟ･｡･ﾟﾟ｡<br>
+ﾟ。thanks for visiting my github<br>
+　ﾟ･｡･
+ 
+ 
